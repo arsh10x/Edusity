@@ -1,5 +1,6 @@
 import "./App.css";
 import About from "./component/About/About";
+import Campus from "./component/Campus/Campus";
 import Hero from "./component/Hero/Hero";
 import Navbar from "./component/Navbar/Navbar";
 import Programs from "./component/Programs/Programs";
@@ -14,6 +15,8 @@ function App() {
         <Title title="What We Offer" subTitle="Our Programs" />
         <Programs />
         <About />
+        <Title title="Campus Photos" subTitle="Gallery" />
+        <Campus />
       </div>
     </div>
   );

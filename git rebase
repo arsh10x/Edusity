@@ -1,0 +1,17 @@
+[33mcommit 3af98edd24f68b6acc1cdac0de7aa9162bb92146[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Arsh10x <arshad.a0921@gmail.com>
+Date:   Mon May 13 16:19:42 2024 +0530
+
+    add sticky dark nav dynamic
+
+[33mcommit da525ceb36bc94acad8fe4bae49214061632760b[m
+Author: Arsh10x <arshad.a0921@gmail.com>
+Date:   Mon May 13 15:36:01 2024 +0530
+
+    working on progeam section
+
+[33mcommit fd7a01fcefb1580d894b8c9ddf0d290e757f2d49[m
+Author: Arsh10x <arshad.a0921@gmail.com>
+Date:   Mon May 13 13:55:47 2024 +0530
+
+    Initialize project using Create React App
