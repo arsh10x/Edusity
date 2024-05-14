@@ -2,12 +2,12 @@ import React from "react";
 import "./About.css";
 import about_img from "../../assets/about.png";
 import play_icon from "../../assets/play-icon.png";
-const About = () => {
+const About = ({ setShow }) => {
   return (
     <div className="about">
       <div className="about-left">
         <img src={about_img} className="about-img" alt="aboutImg" />
-        <img src={play_icon} className="play-icon" alt="playIcon" />
+        <img src={play_icon} className="play-icon" alt="playIcon" onClick={()=>{setShow(true)}}/>
       </div>
       <div className="about-right">
         <h3>ABOUT UNIVERSITY</h3>
